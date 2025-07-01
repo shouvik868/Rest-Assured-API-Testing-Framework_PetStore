@@ -28,3 +28,11 @@
 12:16:41.624 [main] INFO  api.test.UserTests - Retrieving user with username: wava.hane
 12:16:46.987 [main] INFO  api.test.UserTests - Updating user with username: wava.hane
 12:16:51.552 [main] INFO  api.test.UserTests - Deleting user with username: wava.hane
+11:09:19.181 [main] INFO  api.test.UserTests - Creating user with username: ellis.considine
+11:09:28.724 [main] INFO  api.test.UserTests - Retrieving user with username: ellis.considine
+11:09:34.027 [main] INFO  api.test.UserTests - Updating user with username: ellis.considine
+11:09:38.659 [main] INFO  api.test.UserTests - Deleting user with username: ellis.considine
+11:19:40.941 [main] INFO  api.test.UserTests - Creating user with username: dinorah.rohan
+11:19:50.805 [main] INFO  api.test.UserTests - Retrieving user with username: dinorah.rohan
+11:19:56.214 [main] INFO  api.test.UserTests - Updating user with username: dinorah.rohan
+11:20:03.868 [main] INFO  api.test.UserTests - Deleting user with username: dinorah.rohan
